@@ -196,7 +196,5 @@ The frontend follows a clean **4-layer React pattern**:
 ## 👩‍💻 Author
 
 **Aanya Singh**  
-B.Tech Computer Science, IGDTUW  
-[GitHub](https://github.com/aanyasingh) • [LinkedIn](https://linkedin.com/in/aanyasingh)
 
 ---
