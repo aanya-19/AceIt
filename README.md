@@ -1,4 +1,4 @@
-# AceIt 🎯
+# AceIt 
 ### AI-Powered Interview Preparation Platform
 
 AceIt helps students and job seekers prepare smarter for technical interviews. Upload your resume, paste a job description, and let AI generate a fully personalized interview prep report — in under 30 seconds.
@@ -14,7 +14,7 @@ AceIt helps students and job seekers prepare smarter for technical interviews. U
 
 ---
 
-## ✨ Features
+## Features
 
 - **Resume Upload** — Upload your resume as a PDF and let the AI extract and analyze it
 - **Match Score** — Get a compatibility score between your profile and the job description
@@ -27,7 +27,7 @@ AceIt helps students and job seekers prepare smarter for technical interviews. U
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -96,7 +96,7 @@ AceIt/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -157,7 +157,7 @@ npm run dev
 Visit `http://localhost:5173` in your browser.
 
 
-## 🤖 How the AI Works
+## How the AI Works
 
 1. Resume PDF is uploaded and text is extracted using `pdf-parse`
 2. Extracted text + job description + self description are passed to Gemini
@@ -178,7 +178,7 @@ Self Description
 
 ---
 
-## ⚙️ Frontend Architecture
+## Frontend Architecture
 
 The frontend follows a clean **4-layer React pattern**:
 
@@ -193,7 +193,7 @@ The frontend follows a clean **4-layer React pattern**:
 
 
 
-## 👩‍💻 Author
+## Author
 
 **Aanya Singh**  
 
