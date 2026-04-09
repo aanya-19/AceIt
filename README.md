@@ -5,13 +5,6 @@ AceIt helps students and job seekers prepare smarter for technical interviews. U
 
 <img width="1397" height="767" alt="image" src="https://github.com/user-attachments/assets/c6e1f9bb-6aee-4185-a6f1-34f13e1274e4" />
 
-<img width="1401" height="763" alt="image" src="https://github.com/user-attachments/assets/692a7cfc-1d97-4659-b922-95121a64d742" />
-
-<img width="1411" height="756" alt="image" src="https://github.com/user-attachments/assets/dfb5ef76-1be6-4a3d-bb7c-c78a763f7c3a" />
-
-<img width="1408" height="761" alt="image" src="https://github.com/user-attachments/assets/0382e587-681c-4587-9dd4-98521ab16ff3" />
-
-
 ---
 
 ## Features
@@ -24,6 +17,12 @@ AceIt helps students and job seekers prepare smarter for technical interviews. U
 - **Day-wise Prep Plan** — A personalized study plan to close your skill gaps before the interview
 - **Secure Auth** — JWT-based authentication with token blacklisting on logout
 - **Report History** — View all your previously generated interview reports
+
+<img width="1401" height="763" alt="image" src="https://github.com/user-attachments/assets/692a7cfc-1d97-4659-b922-95121a64d742" />
+
+<img width="1411" height="756" alt="image" src="https://github.com/user-attachments/assets/dfb5ef76-1be6-4a3d-bb7c-c78a763f7c3a" />
+
+<img width="1408" height="761" alt="image" src="https://github.com/user-attachments/assets/0382e587-681c-4587-9dd4-98521ab16ff3" />
 
 ---
 
