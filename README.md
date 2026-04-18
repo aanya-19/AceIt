@@ -49,52 +49,6 @@ AceIt helps students and job seekers prepare smarter for technical interviews. U
 
 ---
 
-## 📁 Project Structure
-
-```
-AceIt/
-├── Frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   │   ├── Home/
-│   │   │   │   ├── Home.jsx          # UI layer
-│   │   │   │   ├── Home.css          # Styles
-│   │   │   │   └── index.jsx         # Wires state + UI
-│   │   │   └── Interview/
-│   │   ├── services/
-│   │   │   └── interview.api.js      # API layer
-│   │   ├── hooks/
-│   │   │   └── useInterview.js       # Hooks layer
-│   │   ├── context/
-│   │   │   └── interview.context.jsx # State layer
-│   │   └── app.routes.jsx
-│   └── package.json
-│
-└── Backend/
-    ├── src/
-    │   ├── controllers/
-    │   │   └── interview.controllers.js
-    │   ├── services/
-    │   │   └── ai.service.js         # Gemini AI integration
-    │   ├── models/
-    │   │   └── interviewReport.model.js
-    │   ├── routes/
-    │   │   └── interview.routes.js
-    │   ├── middleware/
-    │   │   ├── auth.middleware.js
-    │   │   └── upload.middleware.js
-    │   ├── schemas/
-    │   │   └── interviewReport.schema.js
-    │   ├── prompts/
-    │   │   └── interviewReport.prompt.js
-    │   └── config/
-    │       ├── db.js
-    │       └── gemini.js
-    └── package.json
-```
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -120,7 +74,7 @@ Create a `.env` file in the `Backend` directory:
 
 ```env
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/aceit
+MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_here
 GOOGLE_GENAI_API_KEY=your_gemini_api_key_here
 GEMINI_MODEL=gemini-2.0-flash
